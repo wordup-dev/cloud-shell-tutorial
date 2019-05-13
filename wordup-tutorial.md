@@ -43,7 +43,7 @@ npx wordup-cli init
 
 Please follow the instructions and use the following settings:
 
-* As a project name use: **Testproject**
+* As a project name use: **WordPress Testplugin**
 * Create a WordPress plugin
 * Make sure to *scaffold* your project src code. 
 
@@ -54,7 +54,7 @@ Please follow the instructions and use the following settings:
 You now have a new wordup project up and running. Please `cd` to your newly created project:
 
 ```bash
-cd testproject
+cd wordpress-testplugin
 ```
 
 ### Start coding
@@ -125,10 +125,12 @@ You browser should open a new website which shows an error message.
 Please copy the url and run the following command:
 
 ```bash
-npx wordup install -p 8080 --siteurl=https://copied-url
+npx wordup install -p 8080 --siteurl=https://copied-url/
 ```
 
-After this command you should reload your preview url and see a running WordPress installation.
+*This command will install a wordup dev server on port 8080 with your custom preview url*
+
+After executing this command you should reload your preview url and see a running WordPress installation.
 
 Login as an admin. To see that your created plugin source code is also available.
 
