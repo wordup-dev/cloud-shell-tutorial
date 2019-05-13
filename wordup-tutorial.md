@@ -132,7 +132,7 @@ npx wordup install -p 8080 --siteurl=https://copied-url/
 
 After executing this command you should reload your preview url and see a running WordPress installation.
 
-Login as an admin. To see that your created plugin source code is also available.
+Login as an admin, so that you can see that your created WordPress plugin is also available.
 
 ## Conclusion
 <walkthrough-conclusion-trophy />
@@ -141,6 +141,8 @@ Login as an admin. To see that your created plugin source code is also available
 
 You have finished the wordup-cli tutorial. 
 
-For more information visit wordup on [GitHub](https://github.com/wordup-dev/wordup-cli)
+For more information visit wordup on [GitHub](https://github.com/wordup-dev/wordup-cli) 
+
+Please follow us also on [Twitter](https://twitter.com/wordup_dev)
 
 ### Happy Coding!!!
