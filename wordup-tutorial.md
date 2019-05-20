@@ -98,7 +98,7 @@ npx wordup export
 
 Wordup will export your /src folder to a zip file, based on `.distignore` and your wordup settings. 
 
-You have also the posibilty to export your whole project. For more information see [Export docs](https://github.com/wordup-dev/wordup-cli#wordup-export-type)
+You have also the possibility to export your whole project. For more information see [Export docs](https://github.com/wordup-dev/wordup-cli#wordup-export-type)
 
 ## Show in Web preview 
 
